@@ -1,8 +1,11 @@
 ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkadusumilli)](https://github.com/gkadusumilli/github-readme-stats)
 # Imageprocessing algorithms
 
 This repository contains the image processing codes with a detailed concept explanation using the OpenCV library written in python.
